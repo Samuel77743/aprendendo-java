@@ -30,13 +30,13 @@ atributo .length
 
 - **Exercício 013:** Arrays PT5 -> Classe "Arrays."
 
-➡ Ordenar vetores --> *Arrays.sort*
+    ➡ Ordenar vetores --> *Arrays.sort*
 
-➡ Preencher índices com um valor --> *Arrays.fill*
+    ➡ Preencher índices com um valor --> *Arrays.fill*
 
-➡ Comparar Arrays --> *Arrays.equals(n1, n2)* 
+    ➡ Comparar Arrays --> *Arrays.equals(n1, n2)* 
 
-➡ Pesquisar um valor dentro dos índices --> *Arrays.Binarysearch* 
-                                         ⚠⚠ARRAY DEVE ESTÁ ORDENADO⚠⚠
+    ➡ Pesquisar um valor dentro dos índices --> *Arrays.Binarysearch* 
+                                            ⚠⚠ARRAY DEVE ESTÁ ORDENADO⚠⚠
 
 - **Exercício 014:** Arrays PT6 -> Copiar conteúdo de um Array pra outro (*System.arraycopy*)
