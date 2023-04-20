@@ -37,6 +37,13 @@ atributo .length
     ➡ Comparar Arrays --> *Arrays.equals(n1, n2)* 
 
     ➡ Pesquisar um valor dentro dos índices --> *Arrays.Binarysearch* 
-                                            ⚠⚠ARRAY DEVE ESTÁ ORDENADO⚠⚠
+                                            ⚠⚠ ARRAY DEVE ESTÁ ORDENADO ⚠⚠
 
 - **Exercício 014:** Arrays PT6 -> Copiar conteúdo de um Array pra outro (*System.arraycopy*)
+
+- **Exercício 015:** Arrays Bidimensionais -> Matrizes
+    ➡ Preenchimento de Matriz na declaração
+    ➡ Preenchimento de Matriz usando laço de repetição FOR
+    ➡ Leitura de valores dos índices da Matriz
+
+- **Exercício 016:** 
