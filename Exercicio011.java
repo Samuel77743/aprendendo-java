@@ -13,10 +13,12 @@ public class Exercicio011 {
         char[] resposta = new char[tam];
         
         for(int contador = 0; contador < tam; contador++){
-            System.out.printf("Responda aa %dº questão --> ", contador+1 );
+            System.out.printf("Responda a %dº questão --> ", contador+1 );
             resposta[contador] = input.next().charAt(0);
         }
         
+        input.close();
+
         int pontuacao = 0;
         for(int i = 0; i < tam; i++){
             if(gabarito[i] == resposta[i]){
