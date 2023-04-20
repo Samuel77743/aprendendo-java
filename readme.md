@@ -29,6 +29,7 @@ atributo .length
 - **Exercício 012:** Arrays PT4 -> Shorthandd e FOR pra interagir com todos índices
 
 - **Exercício 013:** Arrays PT5 -> Classe "Arrays."
+
 ➡ Ordenar vetores --> *Arrays.sort*
 
 ➡ Preencher índices com um valor --> *Arrays.fill*
