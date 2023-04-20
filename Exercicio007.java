@@ -6,7 +6,7 @@ public class Exercicio007 {
         
         //LOOP FOR
         for(int count = 1; count <= 20; count++){
-            System.out.printf("%d\n", count);
+            System.out.println(count + " - Você é legal :)");
         }
     }
 }
