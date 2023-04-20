@@ -30,8 +30,11 @@ atributo .length
 
 - **Exercício 013:** Arrays PT5 -> Classe "Arrays."
 ➡ Ordenar vetores --> *Arrays.sort*
+
 ➡ Preencher índices com um valor --> *Arrays.fill*
+
 ➡ Comparar Arrays --> *Arrays.equals(n1, n2)* 
+
 ➡ Pesquisar um valor dentro dos índices --> *Arrays.Binarysearch* 
                                          ⚠⚠ARRAY DEVE ESTÁ ORDENADO⚠⚠
 
