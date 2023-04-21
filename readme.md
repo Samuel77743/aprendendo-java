@@ -46,4 +46,12 @@ atributo .length
     ➡ Preenchimento de Matriz usando laço de repetição FOR
     ➡ Leitura de valores dos índices da Matriz
 
-- **Exercício 016:** 
+- **Exercício 016:** Formatações em printf --> indentar, zeros a esquerda, alinhar tabelas
+
+- **Exercício 017:** Procedimentos de tipagem void
+
+- **Exercício 018:** Procedimentos que retornam valores
+
+- **Exercício 019:** Procedimentos de mesmo nome mas diferentes tipos
+
+- **Exercício 020:** ***POO*** --> Introdução a Classes caracterizando Jogadores
