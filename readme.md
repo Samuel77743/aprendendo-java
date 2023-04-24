@@ -15,6 +15,10 @@
     Foi realizado exercícios e projetos em objetivo de aprender o funcionamento da linguagem, conceitos
     primitivos e exclusivos, aprendizagem de packages, métodos e classes.
 
+<h3 align="center">
+STATUS: 🚧 Em construção...  🚧
+</h3>
+
 ### Exercícios de base e lógica de Java
 - **Exercício 001:** Comando de saída de dados fazendo "Hello World", expondo particularidades 
 e diferenças do conjunto System.Out.
