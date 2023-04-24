@@ -1,6 +1,8 @@
 # Java - Aprendendo a Linguagem
-    Neste repositório ficará registrado todo avanço no desenvolvimento de Java SE, sua 
-    sintaxe, particularidades, Lógica de Programação aprimorada por conceitos de Java, conhecimento de termos importantes para desenvolvimento desta maravilhosa linguagem:
+    Neste repositório ficará registrado todo avanço no desenvolvimento de Java SE, 
+    sua sintaxe, particularidades, Lógica de Programação aprimorada por 
+    conceitos de Java, conhecimento de termos importantes para desenvolvimento 
+    desta maravilhosa linguagem:
     - JDK -> Java Development Kit
     - JRE -> Java Runtime Enviroment
     - JavaC -> Compilador do Java
@@ -10,12 +12,15 @@
     - WORE -> Write Once Run Everywhere
 
 ## O que foi feito?
-    Foi realizado exercícios e projetos em objetivo de aprender o funcionamento da linguagem, conceitos primitivos e exclusivos, aprendizagem de packages, métodos e classes.
+    Foi realizado exercícios e projetos em objetivo de aprender o funcionamento da linguagem, conceitos
+    primitivos e exclusivos, aprendizagem de packages, métodos e classes.
 
 ### Exercícios de base e lógica de Java
-- **Exercício 001:** Comando de saída de dados fazendo "Hello World", expondo particularidades  e diferenças do conjunto System.Out.
+- **Exercício 001:** Comando de saída de dados fazendo "Hello World", expondo particularidades 
+e diferenças do conjunto System.Out.
 
-- **Exercício 002:** Tipos Primitivos em Java, declarações e relações(percebi que em Javao dev está sujeito a sofrer com Casting)
+- **Exercício 002:** Tipos Primitivos em Java, declarações e relações
+**(percebi que em Java o dev está sujeito a sofrer com Casting)**
 
 - **Exercício 003:** Estruturas de Decisão --> IFs ELSEs
 
