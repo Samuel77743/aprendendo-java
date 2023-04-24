@@ -23,7 +23,8 @@ public class Exercicio013 {
         }
         System.out.println("");
 
-        Arrays.fill(num2, 2023);
+        Arrays.fill(num2, 2023); //Preenchendo 2023 em todas posições
+
         for(int n:num2){
             System.out.printf("%d -", n);
         }

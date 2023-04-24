@@ -1,8 +1,18 @@
 # Java - Aprendendo a Linguagem
     Neste repositório ficará registrado todo avanço no desenvolvimento de Java SE, sua 
-    sintaxe, particularidades e também a lógica de Programação Orientada a Objeto como um todo.
+    sintaxe, particularidades, Lógica de Programação aprimorada por conceitos de Java, conhecimento de termos importantes para desenvolvimento desta maravilhosa linguagem:
+    - JDK -> Java Development Kit
+    - JRE -> Java Runtime Enviroment
+    - JavaC -> Compilador do Java
+    - Bytecode -> Código realocado (.class)
+    - JVM -> Java Virtual Machine
+    - JIT -> Just in Time(compõe a JVM)
+    - WORE -> Write Once Run Everywhere
 
 ## O que foi feito?
+    Foi realizado exercícios e projetos em objetivo de aprender o funcionamento da linguagem, conceitos primitivos e exclusivos, aprendizagem de packages, métodos e classes.
+
+### Exercícios de base e lógica de Java
 - **Exercício 001:** Comando de saída de dados fazendo "Hello World", expondo particularidades  e diferenças do conjunto System.Out.
 
 - **Exercício 002:** Tipos Primitivos em Java, declarações e relações(percebi que em Javao dev está sujeito a sofrer com Casting)
@@ -48,10 +58,10 @@ atributo .length
 
 - **Exercício 016:** Formatações em printf --> indentar, zeros a esquerda, alinhar tabelas
 
-- **Exercício 017:** Procedimentos de tipagem void
+- **Exercício 017:** Procedimentos sem retorno
 
 - **Exercício 018:** Procedimentos que retornam valores
 
 - **Exercício 019:** Procedimentos de mesmo nome mas diferentes tipos
 
-- **Exercício 020:** ***POO*** --> Introdução a Classes caracterizando Jogadores
+- **Exercício 020** Algorítmo de Fibonacci(usando Array)

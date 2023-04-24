@@ -10,6 +10,7 @@ public class Exercicio015 {
         final int linhas = 4;
         final int colunas = 2;
 
+        //Declarando matriz
         int[][] matriz = new int[linhas][colunas];
 
         //Preenchendo matriz
