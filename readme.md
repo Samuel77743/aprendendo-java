@@ -101,3 +101,8 @@ atributo .length
 
     Cópia por referência --> Array passado como parâmetro, desta forma,
     as alterações feitas dentro de um método também valem para original
+
+- **Exercício 029:** Utilizando função com número parâmetros indeterminados
+    Usando a sintaxe *funcao(int... parametro)* pode-se alocar quando valores
+    forem necessários para serem usados no método, pois os valores dos parâmetros
+    serão colocados dentro de um **Array**.
