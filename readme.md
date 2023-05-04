@@ -91,3 +91,13 @@ atributo .length
 
 - **Exercício 026:** Usando array como parâmetro de uma função, identificando Par/Impar de cada
 índice do vetor.
+
+- **Exercício 027:** Retornando array no final de um método
+
+- **Exercício 028:** Utilizando array como parâmetro de funcao para entender:
+<p align="center">Cópia de valor != Cópia de referência</p>
+    Cópia de valor --> Variável comum passada como parâmetro, se o valor for
+    alterado no meio do método, a original não sofrerá alteração
+
+    Cópia por referência --> Array passado como parâmetro, desta forma,
+    as alterações feitas dentro de um método também valem para original
