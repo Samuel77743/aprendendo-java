@@ -73,4 +73,21 @@ atributo .length
 
 - **Exercício 019:** Procedimentos de mesmo nome mas diferentes tipos
 
-- **Exercício 020** Algorítmo de Fibonacci(usando Array)
+- **Exercício 020:** Algorítmo de Fibonacci(usando Array)
+
+- **Exercício 021:** Potencial do Switch Case
+
+- **Exercício 022:** Funcionamento do comando CONTINUE
+    DIFERENÇA DE BREAK E CONTINUE
+    - **BREAK**: Quebra o laço de repetição do qual está dentro(encerra o ciclo do loop)
+    - **CONTINUE**: Ignora a iteração atual, ou seja interrompe o a reptição atual, mas
+    continua a posterior normalmente
+    
+- **Exercício 023:** Revendo Arrays
+
+- **Exercício 024:** Fazendo estrutura de Exame Escolar
+
+- **Exercício 025:** Extraindo cada caractere de uma String individualmente com *.toCharArray*
+
+- **Exercício 026:** Usando array como parâmetro de uma função, identificando Par/Impar de cada
+índice do vetor.

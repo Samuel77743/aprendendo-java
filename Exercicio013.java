@@ -10,6 +10,7 @@ public class Exercicio013 {
 
         Arrays.sort(num); //Ordenação em ordem crescentes dos valores dos índices
 
+        //Printando como ficou a ordenação do array
         for(int n:num){
             System.out.printf("%d - ", n);
         }
