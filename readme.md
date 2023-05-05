@@ -116,3 +116,18 @@ atributo .length
 - **Exercício 031:** Atribuindo valores com SecureRandom nos índices de uma Matriz
 
 - **Exercício 032:** Criando método de atribuição e impressão de matrizes
+
+- **Exercício 033:** Aprendendo sobre ArrayLists:
+    import java.util.ArrayList
+    Declaracao -> ArrayList<Integer> numeros = new ArrayList<>();
+    Métodos relativos:
+    ➡ numeros.add(2) //adicona "2" na próxima posição disponível 
+    ➡ numeros.add(3, 4) //adiciona 4 no *índice* 3, caso esteja 
+    ocupado serão empurrados para frente
+    ➡ numeros.clear() //Reseta *posições*
+    ➡ numeros.size() //Retorna número de *posições* existentes, como .length
+    ➡ numeros.indexOf(5) //Retorna a primeira *posicao* em que 5 aparece 
+    ➡ numeros.get(2) //Retorna o *valor* da posicao 2 desse array
+    ➡ numeros.remove(5) //Remove o *valor* dentro dos parenteses da lista, e as 
+    posições seguintes são deslocadas para esquerda para preencher o void
+    ➡ numeros.trimToSize() //Elimina *posições* vazias do array caso tenha
