@@ -106,3 +106,13 @@ atributo .length
     Usando a sintaxe *funcao(int... parametro)* pode-se alocar quando valores
     forem necessários para serem usados no método, pois os valores dos parâmetros
     serão colocados dentro de um **Array**.
+
+- **Exercício 030:** Entendendo e utilizando o parâmetro do método main -> *String[args]*
+    Este parâmetro pode ter os valores de seus indices informado no prompt,
+    no momento em que fazemos o comando para executar o arquivo ".class"
+    Além disso usei o metdo *Integer.valueof()* para converter de
+    **String >> Inteiro**
+
+- **Exercício 031:** Atribuindo valores com SecureRandom nos índices de uma Matriz
+
+- **Exercício 032:** Criando método de atribuição e impressão de matrizes

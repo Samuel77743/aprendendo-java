@@ -1,4 +1,4 @@
-public class Exercício026 {
+public class Exercicio026 {
     public static void main(String[] args) {
         
         //Verificando se valores dos indices pares ou ímpares usando array de parametro numa
