@@ -118,9 +118,12 @@ atributo .length
 - **Exercício 032:** Criando método de atribuição e impressão de matrizes
 
 - **Exercício 033:** Aprendendo sobre ArrayLists:
+
     import java.util.ArrayList
+
     Declaracao -> ArrayList<Integer> numeros = new ArrayList<>();
-    Métodos relativos:
+
+    <h3 align="center">Métodos relativos:</h3>
 
     ➡ numeros.add(2) //adicona "2" na próxima posição disponível 
 
@@ -137,5 +140,5 @@ atributo .length
 
     ➡ numeros.remove(5) //Remove o *valor* dentro dos parenteses da lista, e as 
     posições seguintes são deslocadas para esquerda para preencher o void
-    
+
     ➡ numeros.trimToSize() //Elimina *posições* vazias do array caso tenha
