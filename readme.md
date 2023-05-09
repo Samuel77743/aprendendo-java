@@ -142,3 +142,7 @@ atributo .length
     posições seguintes são deslocadas para esquerda para preencher o void
 
     ➡ numeros.trimToSize() //Elimina *posições* vazias do array caso tenha
+
+    **Exercicio 034:** TRY / CATCHs e Finnaly:
+        São estrutura que permitem retornar um procedimento em caso de erro
+        do programa, *SÃO UM TRATAMENTO DE ERROS*
