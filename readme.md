@@ -149,7 +149,7 @@ atributo .length
 
     **Exercício 035:** THROW --> Criar uma excessão personalizada
 
-    **Exercício 036:** Opções de construtor na isntanciação de objetos da *Classe String* e
+    **Exercício 036:** Opções de construtor na instanciação de objetos da *Classe String* e
     métodos da classe.
 
     **Exercício 037:** Comparação de Objetos Strings e soluções de case-sensivity
@@ -168,8 +168,9 @@ atributo .length
 
     - *.regionMatch* --> permite comparar intervalo nas posições de uma String
     **Sintaxe:**
-    **<String rem>.regionMatches(BOOL <relev_casesens>, int <indice init_rem>, String<dest>,**
-    **int <indice init_dest> , int <indice final>)**
+
+    **<String rem>.regionMatches(BOOL :relev_casesens:, int :indice_init_rem:, String :dest:,**
+    **int :indice_init_dest: , int :indice_final:)**
 
 
 
