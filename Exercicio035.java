@@ -1,4 +1,3 @@
-import java.util.IllegalFormatWidthException;
 import java.util.Scanner;
 
 public class Exercicio035 {
@@ -9,6 +8,8 @@ public class Exercicio035 {
 
         System.out.print("Digite a nota do aluno --> ");
         float resp = input.nextFloat();
+
+        input.close();
 
         //No caso de uma nota inválida programa será interrompido com uma excessão e msg 
         if(resp > 100 || resp < 0) {

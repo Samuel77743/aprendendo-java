@@ -143,34 +143,46 @@ atributo .length
 
     ➡ numeros.trimToSize() //Elimina *posições* vazias do array caso tenha
 
-    **Exercicio 034:** TRY / CATCHs e Finnaly:
+
+
+    - **Exercicio 034:** TRY / CATCHs e Finnaly:
         São estrutura que permitem retornar um procedimento em caso de erro
         do programa, *SÃO UM TRATAMENTO DE ERROS*
 
-    **Exercício 035:** THROW --> Criar uma excessão personalizada
+    - **Exercício 035:** THROW --> Criar uma excessão personalizada
 
-    **Exercício 036:** Opções de construtor na instanciação de objetos da *Classe String* e
+    - **Exercício 036:** Opções de construtor na instanciação de objetos da *Classe String* e
     métodos da classe.
 
-    **Exercício 037:** Comparação de Objetos Strings e soluções de case-sensivity
-    - *.equals* --> Compara os valores dos objetos, inibindo o resultado insatisfatório
-    que poderia se retornar caso usasse o operador '==', **É CASE SENSITIVY**
-    (retorna BOOLEAN)
+    - **Exercício 037:** Comparação de Objetos Strings e soluções de case-sensivity
+        - *.equals* --> Compara os valores dos objetos, inibindo o resultado insatisfatório
+        que poderia se retornar caso usasse o operador '==', **É CASE SENSITIVY**
+        (retorna BOOLEAN)
 
-    - *.equalsIgnoreCase* --> Compara valores das Strings sem relevar distinção entre letras
-    maíusculas e minúsculas (retorna BOOLEAN)
+        - *.equalsIgnoreCase* --> Compara valores das Strings sem relevar distinção entre letras
+        maíusculas e minúsculas (retorna BOOLEAN)
 
-    - *.compareTo* --> Diferente dos dois acima, ele verifica se a quantidade de caracteres
-    entre duas Strings são iguais. 
-    (retorna <0 se o objeto tiver menos que o comparado)
-    (retorna  >0 se o objeto tiver mais que o comparado)
-    (retorna 0 se tiverem a mesma quantidade)
+        - *.compareTo* --> Diferente dos dois acima, ele verifica se a quantidade de caracteres
+        entre duas Strings são iguais. 
+        (retorna <0 se o objeto tiver menos que o comparado)
+        (retorna  >0 se o objeto tiver mais que o comparado)
+        (retorna 0 se tiverem a mesma quantidade)
 
-    - *.regionMatch* --> permite comparar intervalo nas posições de uma String
-    **Sintaxe:**
+        - *.regionMatch* --> permite comparar intervalo nas posições de uma String
+        **Sintaxe:**
 
-    **<String rem>.regionMatches(BOOL :relev_casesens:, int :indice_init_rem:, String :dest:,**
-    **int :indice_init_dest: , int :indice_final:)**
+        **<String rem>.regionMatches(BOOL :relev_casesens:, int :indice_init_rem:, String :dest:,**
+        **int :indice_init_dest:, int :indice_final:)**
+
+    - **Exercício 038:** Outros métodos da classe String:
+        
+        - *.concat* Mescla elementos, pode ser realizado com operador '+'
+
+        - *.replace* Determina uma parte da String, e a substitui por outra
+        **Sintaxe --> string1.replace("oi", "olá")** *Troca onde tem 'oi' por 'olá'*
+
+        
+
 
 
 
