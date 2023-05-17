@@ -181,6 +181,18 @@ atributo .length
         - *.replace* Determina uma parte da String, e a substitui por outra
         **Sintaxe --> string1.replace("oi", "olá")** *Troca onde tem 'oi' por 'olá'*
 
+    - **Exercício 039:** MANIPULANDO ARQUIVOS:
+        - Verificando se diretório existe
+        - Verificando se arquivo existe
+
+    - **Exercício 040:** Lendo cada linha de um arquivo .txt
+
+    - **Exercício 041:** Transferindo bytes de um png para outro arquivo png, sobrescrevendo-o
+
+    - **Exercício 042:** Pilhas em Java
+
+    - **Exercício 043:** Listas em Java
+
         
 
 
