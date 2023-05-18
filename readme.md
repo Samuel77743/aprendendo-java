@@ -145,53 +145,58 @@ atributo .length
 
 
 
-    - **Exercicio 034:** TRY / CATCHs e Finnaly:
-        São estrutura que permitem retornar um procedimento em caso de erro
-        do programa, *SÃO UM TRATAMENTO DE ERROS*
+- **Exercicio 034:** TRY / CATCHs e Finnaly:
+    São estrutura que permitem retornar um procedimento em caso de erro
+    do programa, *SÃO UM TRATAMENTO DE ERROS*
 
-    - **Exercício 035:** THROW --> Criar uma excessão personalizada
+- **Exercício 035:** THROW --> Criar uma excessão personalizada
 
-    - **Exercício 036:** Opções de construtor na instanciação de objetos da *Classe String* e
-    métodos da classe.
+- **Exercício 036:** Opções de construtor na instanciação de objetos da *Classe String* e
+métodos da classe.
 
-    - **Exercício 037:** Comparação de Objetos Strings e soluções de case-sensivity
-        - *.equals* --> Compara os valores dos objetos, inibindo o resultado insatisfatório
-        que poderia se retornar caso usasse o operador '==', **É CASE SENSITIVY**
-        (retorna BOOLEAN)
+- **Exercício 037:** Comparação de Objetos Strings e soluções de case-sensivity
+    - *.equals* --> Compara os valores dos objetos, inibindo o resultado insatisfatório
+    que poderia se retornar caso usasse o operador '==', **É CASE SENSITIVY**
+    (retorna BOOLEAN)
 
-        - *.equalsIgnoreCase* --> Compara valores das Strings sem relevar distinção entre letras
-        maíusculas e minúsculas (retorna BOOLEAN)
+    - *.equalsIgnoreCase* --> Compara valores das Strings sem relevar distinção entre letras
+    maíusculas e minúsculas (retorna BOOLEAN)
 
-        - *.compareTo* --> Diferente dos dois acima, ele verifica se a quantidade de caracteres
-        entre duas Strings são iguais. 
-        (retorna <0 se o objeto tiver menos que o comparado)
-        (retorna  >0 se o objeto tiver mais que o comparado)
-        (retorna 0 se tiverem a mesma quantidade)
+    - *.compareTo* --> Diferente dos dois acima, ele verifica se a quantidade de caracteres
+    entre duas Strings são iguais. 
+    (retorna <0 se o objeto tiver menos que o comparado)
+    (retorna  >0 se o objeto tiver mais que o comparado)
+    (retorna 0 se tiverem a mesma quantidade)
 
-        - *.regionMatch* --> permite comparar intervalo nas posições de uma String
-        **Sintaxe:**
+    - *.regionMatch* --> permite comparar intervalo nas posições de uma String
+    **Sintaxe:**
 
-        **<String rem>.regionMatches(BOOL :relev_casesens:, int :indice_init_rem:, String :dest:,**
-        **int :indice_init_dest:, int :indice_final:)**
+    **<String rem>.regionMatches(BOOL :relev_casesens:, int :indice_init_rem:, String :dest:,**
+    **int :indice_init_dest:, int :indice_final:)**
 
-    - **Exercício 038:** Outros métodos da classe String:
-        
-        - *.concat* Mescla elementos, pode ser realizado com operador '+'
+- **Exercício 038:** Outros métodos da classe String:
+    
+    - *.concat* Mescla elementos, pode ser realizado com operador '+'
 
-        - *.replace* Determina uma parte da String, e a substitui por outra
-        **Sintaxe --> string1.replace("oi", "olá")** *Troca onde tem 'oi' por 'olá'*
+    - *.replace* Determina uma parte da String, e a substitui por outra
+    **Sintaxe --> string1.replace("oi", "olá")** *Troca onde tem 'oi' por 'olá'*
 
-    - **Exercício 039:** MANIPULANDO ARQUIVOS:
-        - Verificando se diretório existe
-        - Verificando se arquivo existe
+- **Exercício 039:** MANIPULANDO ARQUIVOS:
+    - Verificando se diretório existe
+    - Verificando se arquivo existe
 
-    - **Exercício 040:** Lendo cada linha de um arquivo .txt
+- **Exercício 040:** Lendo cada linha de um arquivo .txt
 
-    - **Exercício 041:** Transferindo bytes de um png para outro arquivo png, sobrescrevendo-o
+- **Exercício 041:** Transferindo bytes de um png para outro arquivo png, sobrescrevendo-o
 
-    - **Exercício 042:** Pilhas em Java
+- **Exercício 042:** Pilhas em Java --> STACK: LAST IN LAST OUT
 
-    - **Exercício 043:** Listas em Java
+- **Exercício 043:** Filas em Java --> Queue: FIRST IN FIRST OUT
+
+- **Exercício 044:** HashMap --> Acesso a elementos via *Key*
+*
+- **Exercício 045:** HashSet --> Apenas armazena elementos *não repetidos* e 
+ordenados *aleatoriamente*
 
         
 
